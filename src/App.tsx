@@ -9,7 +9,7 @@ class App extends React.Component {
           <h2>Shelfari</h2>
         </div>
         <p className="App-content">
-          To get started, edit <code>src/App.tsx</code> and save to reload.
+          
         </p>
       </div>
     );
