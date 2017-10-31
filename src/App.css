@@ -1,0 +1,13 @@
+.App {
+  text-align: center; }
+  .App .App-header {
+    background-color: #222;
+    height: 30px;
+    padding: 10px;
+    color: white; }
+    .App .App-header h2 {
+      margin: 0px; }
+  .App .App-content {
+    font-size: large; }
+
+/*# sourceMappingURL=App.css.map */
