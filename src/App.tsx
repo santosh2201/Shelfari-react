@@ -1,6 +1,6 @@
 import * as React from 'react';
 import './App.css';
-import { Button } from 'react-bootstrap';
+import { Button } from 'react-bootstrap/lib';
 
 class App extends React.Component {
   render() {
